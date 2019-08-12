@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_hashmap",
+            "request": "launch",
+            "mainClass": "try_hashmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListMethod",
+            "request": "launch",
+            "mainClass": "ArrayListMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayLisMethod",
+            "request": "launch",
+            "mainClass": "ArrayLisMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_string",
+            "request": "launch",
+            "mainClass": "try_string"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_for_forchar",
+            "request": "launch",
+            "mainClass": "try_for_forchar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_for_number",
+            "request": "launch",
+            "mainClass": "try_for_number"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_for",
+            "request": "launch",
+            "mainClass": "try_for"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_if",
+            "request": "launch",
+            "mainClass": "try_if"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemlnScanner",
+            "request": "launch",
+            "mainClass": "SystemlnScanner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemOutPrintln",
+            "request": "launch",
+            "mainClass": "SystemOutPrintln"
+        }
+    ]
+}
