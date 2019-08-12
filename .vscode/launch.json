@@ -2,23 +2,6 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "CodeLens (Launch) - try_hashmap",
-            "request": "launch",
-            "mainClass": "try_hashmap"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ArrayListMethod",
-            "request": "launch",
-            "mainClass": "ArrayListMethod"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ArrayLisMethod",
-            "request": "launch",
-            "mainClass": "ArrayLisMethod"
-=======
             "name": "CodeLens (Launch) - try_Hashmap",
             "request": "launch",
             "mainClass": "try_Hashmap"
@@ -28,7 +11,6 @@
             "name": "CodeLens (Launch) - try_arrayList",
             "request": "launch",
             "mainClass": "try_arrayList"
->>>>>>> 05a3fde8ae02855cf43bf3d32c8ebf49cd9dc2ce
         },
         {
             "type": "java",
@@ -38,35 +20,6 @@
         },
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "CodeLens (Launch) - try_for_forchar",
-            "request": "launch",
-            "mainClass": "try_for_forchar"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - try_for_number",
-            "request": "launch",
-            "mainClass": "try_for_number"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - try_for",
-            "request": "launch",
-            "mainClass": "try_for"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - try_if",
-            "request": "launch",
-            "mainClass": "try_if"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - SystemlnScanner",
-            "request": "launch",
-            "mainClass": "SystemlnScanner"
-=======
             "name": "CodeLens (Launch) - forchar",
             "request": "launch",
             "mainClass": "forchar"
@@ -94,7 +47,6 @@
             "name": "CodeLens (Launch) - systemOutPrintln",
             "request": "launch",
             "mainClass": "systemOutPrintln"
->>>>>>> 05a3fde8ae02855cf43bf3d32c8ebf49cd9dc2ce
         },
         {
             "type": "java",
