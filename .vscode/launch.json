@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_string",
+            "request": "launch",
+            "mainClass": "try_string"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - forchar",
+            "request": "launch",
+            "mainClass": "forchar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fornumber",
+            "request": "launch",
+            "mainClass": "fornumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_if",
+            "request": "launch",
+            "mainClass": "try_if"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - systemScanner",
+            "request": "launch",
+            "mainClass": "systemScanner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - systemOutPrintln",
+            "request": "launch",
+            "mainClass": "systemOutPrintln"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemOutPrintln",
+            "request": "launch",
+            "mainClass": "SystemOutPrintln"
+        }
+    ]
+}
