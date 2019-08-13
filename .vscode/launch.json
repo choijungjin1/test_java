@@ -8,23 +8,6 @@
         },
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "CodeLens (Launch) - try_overloading",
-            "request": "launch",
-            "mainClass": "try_overloading"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - collection_collection",
-            "request": "launch",
-            "mainClass": "collection_collection"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ArrayListMethod",
-            "request": "launch",
-            "mainClass": "ArrayListMethod"
-=======
             "name": "CodeLens (Launch) - try_calculator",
             "request": "launch",
             "mainClass": "try_calculator"
@@ -40,7 +23,6 @@
             "name": "CodeLens (Launch) - try_collection2",
             "request": "launch",
             "mainClass": "try_collection2"
->>>>>>> e6c942906f8808e1e51257badd210655ba9ed2eb
         },
         {
             "type": "java",
