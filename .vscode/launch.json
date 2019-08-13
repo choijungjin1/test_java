@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JWEOverloadingWithParameters",
+            "request": "launch",
+            "mainClass": "JWEOverloadingWithParameters"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_overloading",
+            "request": "launch",
+            "mainClass": "try_overloading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collection_collection",
+            "request": "launch",
+            "mainClass": "collection_collection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListMethod",
+            "request": "launch",
+            "mainClass": "ArrayListMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_collection",
+            "request": "launch",
+            "mainClass": "try_collection"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - try_Hashmap",
             "request": "launch",
             "mainClass": "try_Hashmap"
