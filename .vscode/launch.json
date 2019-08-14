@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - My_class",
+            "request": "launch",
+            "mainClass": "My_class"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JWEOuterClass",
+            "request": "launch",
+            "mainClass": "JWEOuterClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - innerclass",
+            "request": "launch",
+            "mainClass": "innerclass"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - JWEOverloadingWithParameters",
             "request": "launch",
             "mainClass": "JWEOverloadingWithParameters"
